@@ -1,0 +1,132 @@
+Entered crticial section of Producer!
+Item Produced: 3
+
+BUFFER: [ 3 0 0 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 3
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 20
+
+BUFFER: [ 0 20 0 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 20
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 1
+
+BUFFER: [ 0 0 1 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 1
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 17
+
+BUFFER: [ 0 0 0 17 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 17
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 8
+
+BUFFER: [ 0 0 0 0 8 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 8
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 11
+
+BUFFER: [ 0 0 0 0 0 11 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 11
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 8
+
+BUFFER: [ 0 0 0 0 0 0 8 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 8
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 3
+
+BUFFER: [ 0 0 0 0 0 0 0 3 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 3
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 10
+
+BUFFER: [ 0 0 0 0 0 0 0 0 10 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 10
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 17
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 17 ]
+
+Entered crtical section of Consumer!
+Item Removed: 17
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 10
+
+BUFFER: [ 10 0 0 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 10
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 20
+
+BUFFER: [ 0 20 0 0 0 0 0 0 0 0 ]
+
+Entered crticial section of Producer!
+Item Produced: 18
+
+BUFFER: [ 0 20 18 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 20
+
+BUFFER: [ 0 0 18 0 0 0 0 0 0 0 ]
+
+Entered crtical section of Consumer!
+Item Removed: 18
+
+BUFFER: [ 0 0 0 0 0 0 0 0 0 0 ]
+
+
+Exiting...

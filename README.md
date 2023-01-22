@@ -47,3 +47,7 @@ We will achieve this using **Semaphores** and **Mutex** locks.
     ```shell
     ./main prds cons runTime
     ```
+    
+<br>
+
+[Click Here](./output/out) for sample output.
